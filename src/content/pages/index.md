@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: BBQ DROPOUT
-tagline: Graphic Designer
+tagline: HILL COUNTRY PITMASTER
 featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
 cta:
   ctaText: Know more
