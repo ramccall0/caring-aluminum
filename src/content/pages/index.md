@@ -8,4 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+HOWDY! BBQ Dropout here ... I’m a hill country pitmaster that LOVES all things barbecue!
